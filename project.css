@@ -1,0 +1,6 @@
+.center{display: flex; justify-content: center; align-items: center; flex-wrap: wrap;} 
+a{text-decoration: none; color: red;}
+#searchBtn{cursor: pointer;}
+iframe{width: 100%;}
+.country{box-sizing: border-box; padding: 0;}
+
