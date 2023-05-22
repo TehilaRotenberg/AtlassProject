@@ -9,4 +9,5 @@ declareEvents();
 document.querySelector("#parent").innerHTML="";
 }
 
+
 init();

@@ -70,6 +70,7 @@ export default class CountryClass{
 
 }
 
+
 renderCardContry(){
   let div=document.createElement("div");
   div.classList="card col-md-3 m-2";

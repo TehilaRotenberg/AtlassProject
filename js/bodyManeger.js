@@ -26,6 +26,7 @@ export const createDefultArray=(codeCountries)=>{
  })
 }
 
+
 export const seaerch=(_text)=>{
     let country=local_ar.filter(e=>includesText(e,_text));
     console.log(country);
