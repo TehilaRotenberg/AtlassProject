@@ -29,7 +29,7 @@ export default class CountryClass{
     
      
         // ObjectToString(this.languages);
-        div.classList="row border m-2 country";
+        div.classList="row border center country bg-light";
         console.log(div);
         div.innerHTML=`
         <div class=" col center ">
